@@ -1,3 +1,8 @@
+let junioot = 8
+
+
+
+
 let numeroSecreto = parseInt(4);
 let chute;
 let tentativas = 1
@@ -11,9 +16,9 @@ while (chute != numeroSecreto){
      alert(`Isso aí! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativas.`);
     } else {
             if (chute > numeroSecreto) {
-                alert(`o número secreto é menor que ${chute}`);
+                alert(`o número secreto é beeeeeeeeeeeeeeeeM menor que ${chute}`);
         } else {
-                alert(`o número secreto é maior que ${chute}`);
+                alert(`o número secreto é BEEEEEEEEEM maior que ${chute}`);
     }
 
     tentativa++;
